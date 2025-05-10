@@ -4,9 +4,12 @@
   "description": "A learning project for me",
   "license": "ISC",
   "author": "Sarthak P",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
