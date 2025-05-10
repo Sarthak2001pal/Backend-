@@ -1,0 +1,12 @@
+{
+  "name": "mega-app",
+  "version": "1.0.0",
+  "description": "A learning project for me",
+  "license": "ISC",
+  "author": "Sarthak P",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
